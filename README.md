@@ -1,5 +1,9 @@
 # System description
 
+A responsive web app to track and generate itineraries
+
+---
+
 ## Components/Modules
 
 1. Fetch current or custom location
