@@ -13,3 +13,5 @@ A responsive web app to track and generate itineraries
 5. Recommend places of interest [Experimental]
 6. Notify before date of expected travel
 7. Archive record and present statistics from past trips (destinations visited in a month/quarter/year)
+
+### Q4 2022
